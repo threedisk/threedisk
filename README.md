@@ -1,6 +1,8 @@
 ### Hi there 👋
-
+----
 - 📫 How to reach me: [Mas Tris](https://t.me/onsirtus)
+- East Java
+----
 <!--
 **threedisk/threedisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
