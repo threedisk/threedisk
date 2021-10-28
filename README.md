@@ -1,8 +1,8 @@
 ### Hi there 👋
 ----
 - 📫 How to reach me: [Mas Tris](https://t.me/onsirtus)
-- East Java
-- Jambu Kluthuk Lover
+- 📍 East Java
+- 🍐 Jambu Kluthuk Lover
 
 ----
 <!--
