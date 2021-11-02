@@ -6,6 +6,7 @@
 - 🐧 Baru kenalan sama Linux Ubuntu
 - 1 day 1 commit
 - Join komunitas di [Telegram Bot Indonesia](https://t.me/botindonesia)
+- Masih pemula di git
 
 
 ----
