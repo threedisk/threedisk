@@ -1,13 +1,13 @@
 ### Hi there 👋
 ----
-- 📫 How to reach me: [Mas Tris](https://t.me/onsirtus)
-- 📍 East Java
+- 📫 How to reach me: [Mas Tris](https://t.me/onsirtus) 
+- 📍 East Java 
 - 🍐 Jambu Kluthuk and Mango Lover
 - 🐧 Baru kenalan sama Linux Ubuntu
 - 1 day 1 commit (jika sempat)
 - Join komunitas di [Telegram Bot Indonesia](https://t.me/botindonesia)
 - Masih pemula di git
-
+- Manusia tipe penyayang :smile:
 
 ----
 <!--
