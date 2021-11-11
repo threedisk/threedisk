@@ -2,9 +2,9 @@
 ----
 - 📫 How to reach me: [Mas Tris](https://t.me/onsirtus) 
 - 📍 East Java 
-- 🍐 Jambu Kluthuk and :mango: Mango Lover
+- :guava: Jambu Kluthuk and :mango: Mango Lover
 - 🐧 Baru kenalan sama Linux Ubuntu
-- 1 day 1 commit (jika sempat)
+- 1 day 1 commit (jika sempat lho ya)
 - Join komunitas di [Telegram Bot Indonesia](https://t.me/botindonesia)
 - Masih pemula di git
 - Manusia tipe penyayang :smile:
