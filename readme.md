@@ -8,7 +8,7 @@
 - Join komunitas di [Telegram Bot Indonesia](https://t.me/botindonesia)
 - Masih pemula di git :grin:
 - Manusia tipe penyayang :smile:
-
+- Suka nyoba2 VPS. 
 
 ----
 <!--
