@@ -9,7 +9,7 @@
 - Masih pemula di git :grin:
 - Manusia tipe penyayang :smile:
 - Suka nyoba2 VPS. 
-
+---
 ----
 <!--
 **threedisk/threedisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
