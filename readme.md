@@ -4,11 +4,11 @@
 - 📍 East Java
 - 🍈 Jambu Kluthuk and :mango: Mango Lover
 - 🐧 Baru kenalan sama Linux Ubuntu
-- 1 day 1 commit (jika sempat lho ya)
+- 1 day 1 commit (jika sempat lho ya) -
 - Join komunitas di [Telegram Bot Indonesia](https://t.me/botindonesia)
 - Masih pemula di git :grin:
 - Manusia tipe penyayang :smile:
-- Suka nyoba2 VPS. 
+- Suka nyoba2 VPS. contohnya di : [Vultr](https://s.id/IVwvp)
 ---
 ----
 <!--
