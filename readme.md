@@ -9,6 +9,7 @@
 - Masih pemula di git :grin:
 - Manusia tipe penyayang :smile:
 - Suka nyoba2 VPS. contohnya di : [Vultr](https://s.id/IVwvp)
+- Bingung mau isi apaan disini.
 ---
 ----
 <!--
