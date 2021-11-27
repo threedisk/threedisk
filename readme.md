@@ -7,9 +7,9 @@
 - 1 day 1 commit (jika sempat lho ya) -
 - Join komunitas di [Telegram Bot Indonesia](https://t.me/botindonesia)
 - Masih pemula di git :grin:
-- Manusia tipe penyayang :smile:
+- Manusia tipe penyayang :smile: (sayang kalau nggak dimakan)
 - Suka nyoba2 VPS. contohnya di : [Vultr](https://s.id/IVwvp)
-- Bingung mau isi apaan disini.
+
 ---
 <!--
 **threedisk/threedisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
