@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 - 📫 How to reach me: [Mas Tris](https://t.me/onsirtus)
-- 📍 East Java
+- 📍 Western East Java 
 - 🍈 Jambu Kluthuk and :mango: Mango Lover
 - 🐧 Baru kenalan sama Linux Ubuntu
 - 1 day 1 commit (jika sempat lho ya) -
