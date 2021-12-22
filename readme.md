@@ -11,8 +11,8 @@
 - Masih pemula di git :grin:
 - Manusia tipe penyayang :smile: (sayang kalau nggak dimakan)
 - Suka nyoba2 VPS. contohnya di : [Vultr](https://s.id/IVwvp)
-
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=threedisk&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **threedisk/threedisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
