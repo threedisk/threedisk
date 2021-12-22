@@ -1,7 +1,9 @@
 ### Hi there 👋
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
+---
 - 📫 How to reach me: [Mas Tris](https://t.me/onsirtus)
-- 📍 Western East Java 
+- 📍 Western East Java
 - 🍈 Jambu Kluthuk and :mango: Mango Lover
 - 🐧 Baru kenalan sama Linux Ubuntu
 - 1 day 1 commit (jika sempat lho ya) -
