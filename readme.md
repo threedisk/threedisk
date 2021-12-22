@@ -1,6 +1,7 @@
 ### Hi there 👋
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
+-->
 ---
 - 📫 How to reach me: [Mas Tris](https://t.me/onsirtus)
 - 📍 Western East Java
@@ -12,8 +13,10 @@
 - Manusia tipe penyayang :smile: (sayang kalau nggak dimakan)
 - Suka nyoba2 VPS. contohnya di : [Vultr](https://s.id/IVwvp)
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=threedisk&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=threedisk&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 **threedisk/threedisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
