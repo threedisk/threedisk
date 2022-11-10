@@ -1,8 +1,5 @@
 ## Digital Ocean Benchmark
 
-Yet-Another-Bench-Script -> v2022-08-20  
-[https://github.com/masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)
-
 Thu Nov 10 06:44:44 UTC 2022
 ```
 Basic System Information:
