@@ -1,7 +1,6 @@
 ### Hi there 👋
 ---
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+quick+brown+fox+jumps+over+the+lazy+dog)](https://git.io/typing-svg)
 ---
 - 📫 How to reach me: [Mas Tris](https://t.me/onsirtus)
 - 📍 Western East Java 
@@ -12,6 +11,7 @@
 - Masih pemula di git :grin:
 - Manusia tipe penyayang :smile: (sayang kalau nggak dimakan)
 - Suka nyoba2 VPS. contohnya di : [Vultr](https://s.id/IVwvp)
+- Suka Digital Ocean tinggal [klik sini](https://s.id/1nZod)
 - Sedang belajar Python
 ---
 <!--
